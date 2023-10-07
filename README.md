@@ -32,5 +32,5 @@ The materials are available under the [Creative-Common License](LICENSE).
 
 ## Contributors
 
-[Samuel Situmeang](https://github.com/exemuel)
-[Mario Simaremare](https://github.com/simaremare)
++ [Samuel Situmeang](https://github.com/exemuel)
++ [Mario Simaremare](https://github.com/simaremare)
