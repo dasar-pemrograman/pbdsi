@@ -22,7 +22,7 @@ A public repostory for Introduction to Database and Information Systems course m
 16. [2nd Normal Form](/16-2nd-normal-form)
 17. [3rd Normal Form](/17-3rd-normal-form)
 18. [Case Study](/18-case-study)
-19. [Structured Query Language](/19-structured-query-language)
+19. [Structured Query Language (SQL)](/19-structured-query-language)
 20. [SQL Statement: CREATE](/20-sql-statement-create)
 21. [SQL Statement: ALTER](/21-sql-statement-alter)
 22. [SQL Statement: DROP](/22-sql-statement-drop)
