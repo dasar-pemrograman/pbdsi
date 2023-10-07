@@ -1,0 +1,27 @@
+Data Requirements | PBDSI | Bahasa Indonesia
+
+#itdel #pbdsi #database #information_systems
+
+Topic: Data Requirements
+Type : Conceptual
+
+This material should address the following question(s):
+1. Why identifying data requirement is important?
+2. How to identify data requirement?
+
+References:
+R. Elmasri, et. al., Fundamentals of Database Systems.
+A. Silberschatz, et. al., Database System Concepts.
+R. K. Rainer, et. al., Introduction to Information Systems.
+G. M. Marakas et. al., Introduction to Information Systems: Essentials for The e-Business Enterprise.
+
+Playlist:
+https://www.youtube.com/playlist?list=PLXqEqZxgPK94AXkwU_D09iaW2-FN-ReyN
+
+Lecturer:
+Mario E. S. Simaremare
+https://github.com/simaremare
+
+--
+Bachelor of Information System, Institut Teknologi Del
+https://s1is.del.ac.id/
