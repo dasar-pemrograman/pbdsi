@@ -7,7 +7,7 @@ A public repostory for Introduction to Database and Information Systems course m
 1. [Data and Database: An Introduction](/01-data-and-database-an-introduction)
 2. [Database Design: An Overview](/02-database-design-an-overview)
 3. [Data Requirements](/03-data-requirements)
-4. [Entity Relationship Diagram (ERD))](/04-entity-relationship-diagram-erd)
+4. [Entity Relationship Diagram (ERD)](/04-entity-relationship-diagram-erd)
 5. [Entities and Their Existence](/05-entities-and-their-existence)
 6. [Entity Attributes and Primary Keys](/06-entity-attributes-and-primary-keys)
 7. [Relationship Participation](/07-relationship-participation)
